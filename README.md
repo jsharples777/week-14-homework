@@ -38,8 +38,8 @@ Execute `npm run start` to start the Express API server.
 
 # Walkthrough Video
 
-1.  Creation of the database, creating seed data, starting the API server  [walkthrough part 1](https://drive.google.com/file/d/1-oK6Xb5BSsQx2W11IBQ1Cy3Dvn80cxBB/view)
-2.  Demonstration of the CRUD API [walkthrough part 2](https://drive.google.com/file/d/1m9UDnPNW076lJxg8-3GgiFK9iNss1f1f/view)
+1.  Creation of the database, creating seed data, starting the API server  [walkthrough part 1](https://drive.google.com/file/d/1Rqaw5X3pzIvholi10ieAQG0pB1SyYO8t/view)
+2.  Demonstration of the CRUD API [walkthrough part 2](https://drive.google.com/file/d/11k8YFf9OY2Eli_Ge9Ry1Dhh1yyPSpWWT/view)
 
 ## How to contribute
 
